@@ -1,7 +1,7 @@
 # Dashboard
 Sales Insights
 
-According to the data set given we hace used AIM's Grid to Understand the client's problem
+According to the data set given we have used AIM's Grid to Understand the client's problem
 
 PURPOSE 
 - To unlock sales insights that are not visible before the sales team doe decision support and automate them to reduces manual time spent in data gathering.
